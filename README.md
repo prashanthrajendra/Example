@@ -1,1 +1,1 @@
-# Update Example Developer B task-2 completed
+# Update Example Developer B task-2 completed,  even A's task completed
